@@ -1,0 +1,32 @@
+{
+  "name": "phantom-bot",
+  "version": "1.2.0",
+  "description": "PHANTOM BOT - WhatsApp Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "whatsapp",
+    "bot",
+    "baileys",
+    "phantom"
+  ],
+  "author": "Phantom Bot",
+  "license": "MIT",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.16",
+    "axios": "^1.7.0",
+    "cheerio": "^1.0.0",
+    "gtts": "^0.2.1",
+    "pino": "^9.6.0",
+    "sharp": "^0.33.0",
+    "youtube-dl-exec": "^3.1.1",
+    "yt-search": "^2.12.1"
+  },
+  "devDependencies": {
+    "javascript-obfuscator": "^5.3.0",
+    "nodemon": "^3.1.9"
+  }
+}

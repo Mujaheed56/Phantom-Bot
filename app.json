@@ -1,0 +1,31 @@
+{
+  "name": "phantom-bot",
+  "description": "PHANTOM BOT - Feature-rich WhatsApp Bot",
+  "repository": "https://github.com/Mujaheed56/Phantom-Bot",
+  "logo": "",
+  "keywords": ["whatsapp", "bot", "baileys", "phantom"],
+  "env": {
+    "SESSION_ID": {
+      "description": "Your bot session ID from the pairing portal",
+      "value": ""
+    },
+    "PREFIX": {
+      "description": "Command prefix",
+      "value": "!"
+    },
+    "GEMINI_API_KEY": {
+      "description": "Google Gemini API key for AI features (free from aistudio.google.com)",
+      "value": ""
+    },
+    "AUTO_READ": {
+      "description": "Auto-read incoming messages",
+      "value": "false"
+    }
+  },
+  "buildpacks": [
+    { "url": "heroku/nodejs" }
+  ],
+  "formation": {
+    "worker": { "quantity": 1, "size": "eco" }
+  }
+}

@@ -1,0 +1,16 @@
+services:
+  - type: worker
+    name: phantom-bot
+    runtime: node
+    plan: free
+    buildCommand: npm install
+    startCommand: node index.js
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: SESSION_ID
+        value: ""
+      - key: PREFIX
+        value: "!"
+      - key: GEMINI_API_KEY
+        value: ""
