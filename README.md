@@ -3,12 +3,12 @@
 </p>
 
 <p align="center">
-  <b>A powerful WhatsApp bot with 201+ commands</b><br/>
+  <b>A powerful WhatsApp bot with 300+ commands</b><br/>
   <i>AI • Games • Economy • Islamic • Downloads • Group Management</i>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Commands-201+-blue?style=flat-square" alt="Commands"/>
+  <img src="https://img.shields.io/badge/Commands-300+-blue?style=flat-square" alt="Commands"/>
   <img src="https://img.shields.io/badge/Node.js-18+-green?style=flat-square&logo=node.js" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Baileys-6.7.16-orange?style=flat-square" alt="Baileys"/>
   <img src="https://img.shields.io/badge/License-No_Selling-red?style=flat-square" alt="License"/>
@@ -50,10 +50,10 @@ Edit `config.js` to customize your bot:
 
 ---
 
-## 📋 Features — 201 Commands
+## 📋 Features — 300 Commands
 
-### 🛡️ Admin `13 commands`
-`admins` · `antibadword` · `antiflood` · `ban` · `kickall` · `lockgroup` · `members` · `purge` · `setdesc` · `setgrouppp` · `setname` · `unlockgroup` · `whitelist`
+### 🛡️ Admin `11 commands`
+`admins` · `antibadword` · `antiflood` · `ban` · `kickall` · `members` · `purge` · `setdesc` · `setgrouppp` · `setname` · `whitelist`
 
 ### 🤖 Ai `5 commands`
 `ai` · `gpt` · `imagine` · `removebg` · `translate`
@@ -61,32 +61,38 @@ Edit `config.js` to customize your bot:
 ### 📥 Download `16 commands`
 `apk` · `facebook` · `img` · `instagram` · `lyrics` · `mediafire` · `mediainfo` · `pinterest` · `play` · `song` · `spotify` · `tiktok` · `twitter` · `video` · `wallpaper` · `ytsearch`
 
-### 💰 Economy `22 commands`
-`Fruit` · `balance` · `crime` · `daily` · `deposit` · `gamble` · `gift` · `inventory` · `levelup` · `register` · `richest` · `rob` · `sell` · `slots` · `transfer` · `weekly` · `withdraw` · `work` · `🎣 Fishing Rod` · `🎣 Fishing Rod` · `🐟 Small Fish` · `🪨 Stone`
+### 💰 Economy `32 commands`
+`Fruit` · `Phantom Corp` · `auction` · `balance` · `bet` · `bounty` · `crime` · `daily` · `deposit` · `duel` · `gamble` · `gift` · `heist` · `inventory` · `levelup` · `loan` · `lottery` · `payback` · `register` · `richest` · `rob` · `sell` · `slots` · `trade` · `transfer` · `weekly` · `withdraw` · `work` · `🎣 Fishing Rod` · `🎣 Fishing Rod` · `🐟 Small Fish` · `🪨 Stone`
 
-### 🎮 Fun `31 commands`
-`8ball` · `aesthetic` · `ask` · `birthday` · `choose` · `compliment` · `confess` · `couple` · `dare` · `emojimix` · `fact` · `flip` · `horoscope` · `joke` · `meme` · `mock` · `quote` · `quotepic` · `rank` · `react` · `reverse` · `roast` · `roll` · `rps` · `say` · `ship` · `trivia` · `truth` · `ttt` · `wasted` · `wordchain`
+### 🎮 Fun `41 commands`
+`8ball` · `advice` · `aesthetic` · `ask` · `birthday` · `choose` · `compatibility` · `compliment` · `confess` · `couple` · `dare` · `emojimix` · `fact` · `fakeinfo` · `flip` · `fortune` · `gaytest` · `hack` · `horoscope` · `joke` · `meme` · `mock` · `pickup` · `quote` · `quotepic` · `rank` · `rate` · `react` · `reverse` · `roast` · `roll` · `rps` · `say` · `ship` · `simp` · `trivia` · `truth` · `ttt` · `typewriter` · `wasted` · `wordchain`
 
-### 🕹️ Games `14 commands`
-`Dog` · `blackjack` · `charades` · `connect4` · `emojiguess` · `guess` · `hangman` · `mathquiz` · `quiz` · `riddle` · `scramble` · `tictactoe` · `typingrace` · `wouldyourather`
+### 🕹️ Games `24 commands`
+`2048` · `Cat` · `Dog` · `Rabbit` · `Slash` · `Slime` · `blackjack` · `charades` · `connect4` · `dungeon` · `emojiguess` · `flagquiz` · `guess` · `hangman` · `mathquiz` · `minesweeper` · `quiz` · `riddle` · `scramble` · `snake` · `tictactoe` · `typingrace` · `wordle` · `wouldyourather`
 
 ### 📌 General `10 commands`
 `alive` · `help` · `info` · `menu` · `owner` · `ping` · `repo` · `report` · `stats` · `uptime`
 
-### 👥 Group `32 commands`
-`activity` · `add` · `antidelete` · `antilink` · `antispam` · `antistatus` · `ar` · `autoreact` · `autoreply` · `bizhours` · `del` · `demote` · `gbackup` · `goodbye` · `groupinfo` · `hidetag` · `kick` · `link` · `list` · `mute` · `notes` · `poll` · `promote` · `resetwarn` · `revoke` · `setgoodbye` · `setwelcome` · `tag` · `tagall` · `unmute` · `warn` · `welcome`
+### 👥 Group `50 commands`
+`activity` · `add` · `announce` · `anonymous` · `antibot` · `antidelete` · `antiforeign` · `antilink` · `antispam` · `antistatus` · `ar` · `autoreact` · `bizhours` · `chatfilter` · `chatrank` · `del` · `demote` · `gbackup` · `goodbye` · `groupinfo` · `grouplog` · `groupreset` · `grouptransfer` · `hidetag` · `kick` · `leaderboard` · `link` · `list` · `mediaonly` · `mute` · `muteall` · `notes` · `poll` · `promote` · `resetwarn` · `revoke` · `rules` · `setgoodbye` · `seticon` · `setwelcome` · `slowmode` · `tag` · `tagall` · `tempban` · `unmute` · `votekick` · `warn` · `welcome` · `welcome2` · `🆕 Newbie`
 
-### 🕌 Islamic `17 commands`
-`Adam` · `Mishary Rashid Alafasy` · `Sahih al-Bukhari` · `asmaul` · `dhikr` · `dua` · `hijri` · `iftar` · `islamicquiz` · `prayer` · `quran` · `ramadan` · `sadaqah` · `schedule` · `surah` · `tafsir` · `zakat`
+### 📦 Harm_category_harassment `1 command`
+`autoreply`
 
-### 👑 Owner `9 commands`
-`autoread` · `autostatusview` · `autotyping` · `block` · `broadcast` · `chatbot` · `setprefix` · `shutdown` · `unblock`
+### 🕌 Islamic `27 commands`
+`Adam` · `Mishary Rashid Alafasy` · `Sahih al-Bukhari` · `asmaul` · `dhikr` · `dua` · `duas99` · `fasting` · `fiqh` · `hajj` · `hijri` · `iftar` · `islamicdate` · `islamichistory` · `islamicname` · `islamicquiz` · `juz` · `prayer` · `quran` · `ramadan` · `sadaqah` · `sahih` · `schedule` · `seerah` · `surah` · `tafsir` · `zakat`
 
-### 🔍 Search `1 command`
-`anime`
+### 📦 Media `10 commands`
+`addtext` · `blur` · `circle` · `deepfry` · `enhance` · `gif` · `grayscale` · `invert` · `pixelate` · `triggered`
 
-### 🔧 Utility `31 commands`
-`afk` · `afklist` · `avatar` · `base64` · `bmi` · `calc` · `carbon` · `color` · `count` · `crypto` · `currency` · `define` · `encode` · `font` · `github` · `news` · `password` · `profile` · `qr` · `reminder` · `shorten` · `ss` · `sticker` · `timezone` · `todo` · `toimg` · `tp` · `tts` · `vv` · `weather` · `wiki`
+### 👑 Owner `20 commands`
+`autoread` · `autostatusview` · `autotyping` · `block` · `broadcast` · `changelog` · `chatbot` · `eval` · `exec` · `feedback` · `fullbackup` · `globalban` · `maintenance` · `premium` · `restart` · `restore` · `setprefix` · `shutdown` · `unblock` · `update`
+
+### 🔍 Search `11 commands`
+`anime` · `animesearch` · `antonym` · `book` · `country` · `detectlang` · `imdb` · `manga` · `recipe` · `synonym` · `urban`
+
+### 🔧 Utility `42 commands`
+`afk` · `afklist` · `avatar` · `base64` · `bmi` · `calc` · `carbon` · `color` · `count` · `crypto` · `currency` · `define` · `diary` · `encode` · `font` · `github` · `hexcolor` · `iplookup` · `mathsolve` · `news` · `ocr` · `password` · `pastebin` · `profile` · `qr` · `qrread` · `reminder` · `shorten` · `speedtest` · `ss` · `sticker` · `timezone` · `todo` · `toimg` · `tp` · `tts` · `unitconvert` · `vcf` · `vv` · `weather` · `whois` · `wiki`
 
 
 ---
@@ -145,5 +151,5 @@ See [LICENSE](LICENSE) for full details.
 
 <p align="center">
   <b>⚡ PHANTOM BOT v1.2.0</b><br/>
-  <i>201 commands · 12 categories · Powered by Baileys & Gemini AI</i>
+  <i>300 commands · 14 categories · Powered by Baileys & Gemini AI</i>
 </p>

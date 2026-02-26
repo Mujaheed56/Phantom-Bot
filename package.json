@@ -1,6 +1,6 @@
 {
   "name": "phantom-bot",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "PHANTOM BOT - WhatsApp Bot",
   "main": "index.js",
   "scripts": {
@@ -19,6 +19,7 @@
     "@whiskeysockets/baileys": "^6.7.16",
     "axios": "^1.7.0",
     "cheerio": "^1.0.0",
+    "google-play-scraper": "^10.1.2",
     "gtts": "^0.2.1",
     "pino": "^9.6.0",
     "sharp": "^0.33.0",
