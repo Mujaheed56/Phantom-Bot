@@ -1,6 +1,6 @@
 {
   "name": "phantom-bot",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "description": "PHANTOM BOT - WhatsApp Bot",
   "main": "index.js",
   "scripts": {
@@ -23,6 +23,7 @@
     "gtts": "^0.2.1",
     "pdfkit": "^0.17.2",
     "pino": "^9.6.0",
+    "play-dl": "^0.5.6",
     "sharp": "^0.33.0",
     "youtube-dl-exec": "^3.1.1",
     "yt-search": "^2.12.1"
