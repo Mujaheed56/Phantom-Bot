@@ -39,6 +39,8 @@ module.exports = {
   ELEVENLABS_API_KEY: cleanEnv("ELEVENLABS_API_KEY"),
 
  
+  TIMEZONE: process.env.TIMEZONE || "Africa/Lagos",
+
   AUTO_READ: process.env.AUTO_READ === "true" || false,
   AUTO_TYPING: process.env.AUTO_TYPING === "true" || false,
   AUTO_RECONNECT: process.env.AUTO_RECONNECT !== "false", // true by default
