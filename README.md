@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/⚡_PHANTOM_BOT-v3.4.0-blueviolet?style=for-the-badge&labelColor=0d1117" alt="Phantom Bot"/>
+  <img src="https://img.shields.io/badge/⚡_PHANTOM_BOT-v3.5.0-blueviolet?style=for-the-badge&labelColor=0d1117" alt="Phantom Bot"/>
 </p>
 
 <p align="center">
-  <b>A powerful WhatsApp bot with 333+ commands</b><br/>
+  <b>A powerful WhatsApp bot with 334+ commands</b><br/>
   <i>AI • Football • Games • Economy • Islamic • Downloads • Converter Suite • Group Management</i>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Commands-333+-blue?style=flat-square" alt="Commands"/>
+  <img src="https://img.shields.io/badge/Commands-334+-blue?style=flat-square" alt="Commands"/>
   <img src="https://img.shields.io/badge/Node.js-18+-green?style=flat-square&logo=node.js" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Baileys-7.0.0--rc13-orange?style=flat-square" alt="Baileys"/>
   <img src="https://img.shields.io/badge/License-No_Selling-red?style=flat-square" alt="License"/>
@@ -76,7 +76,7 @@ Edit `.env` (or `config.js`) to customize your bot:
 
 ---
 
-## 📋 Features — 333 Commands
+## 📋 Features — 334 Commands
 
 ### 🤖 Ai `18 commands`
 `ai` · `chatgpt` · `claude` · `dalle` · `deepseek` · `editimg` · `gemini` · `gpt` · `grok` · `imagine` · `llama` · `mixtral` · `openrouter` · `perplexity` · `removebg` · `solve` · `translate` · `vision`
@@ -114,14 +114,14 @@ Edit `.env` (or `config.js`) to customize your bot:
 ### 📦 Other `1 command`
 `video-dl`
 
-### 👑 Owner `28 commands`
-`Google Gemini` · `addsudo` · `anticall` · `autoread` · `autostatusview` · `autotyping` · `block` · `broadcast` · `changelog` · `chatbot` · `eval` · `exec` · `feedback` · `fullbackup` · `globalban` · `logmessages` · `maintenance` · `premium` · `private` · `restart` · `restore` · `savestatus` · `setprefix` · `shutdown` · `train` · `unblock` · `update` · `voicebot`
+### 👑 Owner `27 commands`
+`Google Gemini` · `addsudo` · `anticall` · `autoread` · `autostatusview` · `autotyping` · `block` · `broadcast` · `changelog` · `chatbot` · `eval` · `exec` · `feedback` · `fullbackup` · `globalban` · `logmessages` · `maintenance` · `premium` · `private` · `restart` · `restore` · `setprefix` · `shutdown` · `train` · `unblock` · `update` · `voicebot`
 
 ### 🔍 Search `11 commands`
 `anime` · `animesearch` · `antonym` · `book` · `country` · `detectlang` · `imdb` · `manga` · `recipe` · `synonym` · `urban`
 
-### 🔧 Utility `44 commands`
-`afk` · `afklist` · `avatar` · `base64` · `bmi` · `calc` · `carbon` · `color` · `count` · `crypto` · `currency` · `define` · `diary` · `encode` · `font` · `github` · `hexcolor` · `iplookup` · `mathsolve` · `news` · `ocr` · `password` · `pastebin` · `profile` · `qr` · `qrread` · `remind` · `schedule` · `shorten` · `speedtest` · `ss` · `sticker` · `timezone` · `todo` · `toimg` · `topdf` · `tp` · `tts` · `unitconvert` · `vcf` · `vv` · `weather` · `whois` · `wiki`
+### 🔧 Utility `46 commands`
+`addsticker` · `afk` · `afklist` · `avatar` · `base64` · `bmi` · `calc` · `carbon` · `color` · `count` · `crypto` · `currency` · `define` · `diary` · `encode` · `font` · `github` · `hexcolor` · `iplookup` · `mathsolve` · `news` · `ocr` · `password` · `pastebin` · `profile` · `qr` · `qrread` · `remind` · `save` · `schedule` · `shorten` · `speedtest` · `ss` · `sticker` · `timezone` · `todo` · `toimg` · `topdf` · `tp` · `tts` · `unitconvert` · `vcf` · `vv` · `weather` · `whois` · `wiki`
 
 ---
 
@@ -194,6 +194,6 @@ See [LICENSE](LICENSE) for full details.
 ---
 
 <p align="center">
-  <b>⚡ PHANTOM BOT v3.4.0</b><br/>
-  <i>333 commands · 15 categories · Powered by Phantom</i>
+  <b>⚡ PHANTOM BOT v3.5.0</b><br/>
+  <i>334 commands · 15 categories · Powered by Phantom</i>
 </p>

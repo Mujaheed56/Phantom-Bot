@@ -33,22 +33,37 @@ async function main() {
     console.log(`[Main] Starting ${config.BOT_NAME}...`);
 
     const credsPath = path.resolve(config.SESSION_DIR, "creds.json");
+    const hashPath = path.resolve(config.SESSION_DIR, ".session_hash");
 
-    // If SESSION_ID is set in config, decode and update creds.json
+    // If SESSION_ID is set in config, check hash or decode
     if (config.SESSION_ID && config.SESSION_ID.trim().length > 0) {
-      console.log("[Main] Decoding SESSION_ID from config.js...");
-      const decoded = decodeSession(config.SESSION_ID.trim());
-      if (decoded) {
-        console.log("[Main] Session successfully restored from SESSION_ID.");
+      const crypto = require("crypto");
+      const currentHash = crypto.createHash("sha256").update(config.SESSION_ID.trim()).digest("hex");
+      let savedHash = "";
+      try {
+        if (fs.existsSync(hashPath)) {
+          savedHash = fs.readFileSync(hashPath, "utf-8").trim();
+        }
+      } catch {}
+
+      // If creds.json exists and SESSION_ID hash hasn't changed, preserve active credentials
+      if (fs.existsSync(credsPath) && savedHash === currentHash) {
+        console.log("[Main] Active session credentials detected and verified. Preserving session keys.");
       } else {
-        console.warn("[Main] Could not decode SESSION_ID. Checking existing session files...");
+        console.log("[Main] New or updated SESSION_ID detected. Restoring clean session keys...");
+        const decoded = decodeSession(config.SESSION_ID.trim(), true);
+        if (decoded) {
+          console.log("[Main] ✅ Session successfully initialized from SESSION_ID.");
+        } else {
+          console.warn("[Main] ⚠️ Could not decode SESSION_ID. Checking existing files...");
+        }
       }
     } else if (fs.existsSync(credsPath)) {
       console.log("[Main] Found existing session files in sessions/ folder.");
     } else {
-      console.log("[Main] No session found and no SESSION_ID provided in config.js.");
-      console.log("[Main] Please use the web pairing portal to generate a SESSION_ID.");
-      console.log("[Main] Then paste it into config.js and restart the bot.");
+      console.log("[Main] ❌ No session found and no SESSION_ID provided in config / .env.");
+      console.log("[Main] Please use the web pairing portal (phantom-session-web.onrender.com) to get a SESSION_ID.");
+      console.log("[Main] Then paste it into your .env / config.js and restart.");
       return;
     }
 
