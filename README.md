@@ -121,7 +121,7 @@ Edit `.env` (or `config.js`) to customize your bot:
 `anime` · `animesearch` · `antonym` · `book` · `country` · `detectlang` · `imdb` · `manga` · `recipe` · `synonym` · `urban`
 
 ### 🔧 Utility `48 commands`
-`addsticker` · `afk` · `afklist` · `avatar` · `base64` · `bmi` · `calc` · `carbon` · `color` · `count` · `crypto` · `currency` · `define` · `diary` · `encode` · `font` · `github` · `hexcolor` · `iplookup` · `mathsolve` · `news` · `ocr` · `password` · `pastebin` · `profile` · `qr` · `qrread` · `remind` · `run` · `save` · `schedule` · `shorten` · `speedtest` · `ss` · `sticker` · `tempmail` · `timezone` · `todo` · `toimg` · `topdf` · `tp` · `tts` · `unitconvert` · `vcf` · `vv` · `weather` · `whois` · `wiki`
+`Python 3` · `addsticker` · `afk` · `afklist` · `avatar` · `base64` · `bmi` · `calc` · `carbon` · `color` · `count` · `crypto` · `currency` · `define` · `diary` · `encode` · `font` · `github` · `hexcolor` · `iplookup` · `mathsolve` · `news` · `ocr` · `password` · `pastebin` · `profile` · `qr` · `qrread` · `remind` · `save` · `schedule` · `shorten` · `speedtest` · `ss` · `sticker` · `tempmail` · `timezone` · `todo` · `toimg` · `topdf` · `tp` · `tts` · `unitconvert` · `vcf` · `vv` · `weather` · `whois` · `wiki`
 
 ---
 
