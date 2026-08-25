@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/⚡_PHANTOM_BOT-v4.0.0-blueviolet?style=for-the-badge&labelColor=0d1117" alt="Phantom Bot"/>
+  <img src="https://img.shields.io/badge/⚡_PHANTOM_BOT-v5.0.0-blueviolet?style=for-the-badge&labelColor=0d1117" alt="Phantom Bot"/>
 </p>
 
 <p align="center">
-  <b>A powerful WhatsApp bot with 338+ commands</b><br/>
+  <b>A powerful WhatsApp bot with 342+ commands</b><br/>
   <i>AI • Football • Games • Economy • Islamic • Downloads • Converter Suite • Group Management</i>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Commands-338+-blue?style=flat-square" alt="Commands"/>
+  <img src="https://img.shields.io/badge/Commands-342+-blue?style=flat-square" alt="Commands"/>
   <img src="https://img.shields.io/badge/Node.js-18+-green?style=flat-square&logo=node.js" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Baileys-7.0.0--rc13-orange?style=flat-square" alt="Baileys"/>
   <img src="https://img.shields.io/badge/License-No_Selling-red?style=flat-square" alt="License"/>
@@ -76,10 +76,10 @@ Edit `.env` (or `config.js`) to customize your bot:
 
 ---
 
-## 📋 Features — 338 Commands
+## 📋 Features — 342 Commands
 
-### 🤖 Ai `18 commands`
-`ai` · `chatgpt` · `claude` · `dalle` · `deepseek` · `editimg` · `gemini` · `gpt` · `grok` · `imagine` · `llama` · `mixtral` · `openrouter` · `perplexity` · `removebg` · `solve` · `translate` · `vision`
+### 🤖 Ai `19 commands`
+`ai` · `chatgpt` · `chatpdf` · `claude` · `dalle` · `deepseek` · `editimg` · `gemini` · `gpt` · `grok` · `imagine` · `llama` · `mixtral` · `openrouter` · `perplexity` · `removebg` · `solve` · `translate` · `vision`
 
 ### 📦 Converter `4 commands`
 `Bass Boosted` · `tomp3` · `toptt` · `tovideo`
@@ -102,8 +102,8 @@ Edit `.env` (or `config.js`) to customize your bot:
 ### 📌 General `12 commands`
 `alive` · `help` · `info` · `menu` · `owner` · `ping` · `repo` · `report` · `stats` · `store` · `support` · `uptime`
 
-### 👥 Group `67 commands`
-`activity` · `add` · `admins` · `analytics` · `announce` · `anonymous` · `antibadword` · `antibot` · `antidelete` · `antiflood` · `antiforeign` · `antilink` · `antispam` · `antistatus` · `ar` · `autoreact` · `autoreply` · `ban` · `bizhours` · `chatfilter` · `chatrank` · `del` · `demote` · `disallow` · `gbackup` · `goodbye` · `groupinfo` · `grouplog` · `groupreset` · `grouptransfer` · `hidetag` · `kick` · `kickall` · `leaderboard` · `link` · `list` · `mediaonly` · `members` · `modstats` · `mute` · `muteall` · `notes` · `pin` · `poll` · `promote` · `purge` · `recap` · `resetwarn` · `revoke` · `rules` · `setdesc` · `setgoodbye` · `setgrouppp` · `seticon` · `setname` · `setwelcome` · `sgroupadd` · `slowmode` · `tag` · `tagall` · `tempban` · `unmute` · `votekick` · `warn` · `welcome` · `whitelist` · `🆕 Newbie`
+### 👥 Group `68 commands`
+`activity` · `add` · `admins` · `analytics` · `announce` · `anonymous` · `antibadword` · `antibot` · `antidelete` · `antiflood` · `antiforeign` · `antilink` · `antispam` · `antistatus` · `ar` · `autoreact` · `autoreply` · `ban` · `bizhours` · `chatfilter` · `chatrank` · `del` · `demote` · `disallow` · `gbackup` · `goodbye` · `groupinfo` · `grouplog` · `groupreset` · `grouptransfer` · `hidetag` · `kick` · `kickall` · `leaderboard` · `link` · `list` · `mediaonly` · `members` · `modstats` · `mute` · `muteall` · `notes` · `pin` · `poll` · `promote` · `purge` · `recap` · `resetwarn` · `revoke` · `rules` · `setdesc` · `setgoodbye` · `setgrouppp` · `seticon` · `setname` · `setwelcome` · `sgroupadd` · `slowmode` · `tag` · `tagall` · `tempban` · `unmute` · `votekick` · `warn` · `welcome` · `whitelist` · `wrapped` · `🆕 Newbie`
 
 ### 🕌 Islamic `27 commands`
 `Adam` · `Mishary Rashid Alafasy` · `Sahih al-Bukhari` · `asmaul` · `dhikr` · `dua` · `duas99` · `fasting` · `fiqh` · `hajj` · `hijri` · `iftar` · `islamicdate` · `islamichistory` · `islamicname` · `islamicquiz` · `juz` · `prayer` · `quran` · `ramadan` · `sadaqah` · `sahih` · `schedule` · `seerah` · `surah` · `tafsir` · `zakat`
@@ -120,8 +120,8 @@ Edit `.env` (or `config.js`) to customize your bot:
 ### 🔍 Search `11 commands`
 `anime` · `animesearch` · `antonym` · `book` · `country` · `detectlang` · `imdb` · `manga` · `recipe` · `synonym` · `urban`
 
-### 🔧 Utility `48 commands`
-`Python 3` · `addsticker` · `afk` · `afklist` · `avatar` · `base64` · `bmi` · `calc` · `carbon` · `color` · `count` · `crypto` · `currency` · `define` · `diary` · `encode` · `font` · `github` · `hexcolor` · `iplookup` · `mathsolve` · `news` · `ocr` · `password` · `pastebin` · `profile` · `qr` · `qrread` · `remind` · `save` · `schedule` · `shorten` · `speedtest` · `ss` · `sticker` · `tempmail` · `timezone` · `todo` · `toimg` · `topdf` · `tp` · `tts` · `unitconvert` · `vcf` · `vv` · `weather` · `whois` · `wiki`
+### 🔧 Utility `50 commands`
+`Python 3` · `addsticker` · `afk` · `afklist` · `avatar` · `base64` · `bmi` · `calc` · `carbon` · `color` · `count` · `crypto` · `currency` · `define` · `diary` · `encode` · `font` · `github` · `groupvcf` · `hexcolor` · `invoice` · `iplookup` · `mathsolve` · `news` · `ocr` · `password` · `pastebin` · `profile` · `qr` · `qrread` · `remind` · `save` · `schedule` · `shorten` · `speedtest` · `ss` · `sticker` · `tempmail` · `timezone` · `todo` · `toimg` · `topdf` · `tp` · `tts` · `unitconvert` · `vcf` · `vv` · `weather` · `whois` · `wiki`
 
 ---
 
@@ -194,6 +194,6 @@ See [LICENSE](LICENSE) for full details.
 ---
 
 <p align="center">
-  <b>⚡ PHANTOM BOT v4.0.0</b><br/>
-  <i>338 commands · 15 categories · Powered by Phantom</i>
+  <b>⚡ PHANTOM BOT v5.0.0</b><br/>
+  <i>342 commands · 15 categories · Powered by Phantom</i>
 </p>
