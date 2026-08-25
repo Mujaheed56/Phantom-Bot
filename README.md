@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/⚡_PHANTOM_BOT-v5.0.1-blueviolet?style=for-the-badge&labelColor=0d1117" alt="Phantom Bot"/>
+  <img src="https://img.shields.io/badge/⚡_PHANTOM_BOT-v5.1.1-blueviolet?style=for-the-badge&labelColor=0d1117" alt="Phantom Bot"/>
 </p>
 
 <p align="center">
@@ -87,8 +87,8 @@ Edit `.env` (or `config.js`) to customize your bot:
 ### 📥 Download `16 commands`
 `apk` · `facebook` · `img` · `instagram` · `lyrics` · `mediafire` · `mediainfo` · `pinterest` · `play` · `song` · `spotify` · `tiktok` · `twitter` · `wallpaper` · `yt` · `ytsearch`
 
-### 💰 Economy `31 commands`
-`Fruit` · `Phantom Corp` · `auction` · `balance` · `bet` · `bounty` · `crime` · `daily` · `deposit` · `duel` · `gamble` · `gift` · `heist` · `inventory` · `loan` · `lottery` · `payback` · `register` · `richest` · `rob` · `sell` · `slots` · `trade` · `transfer` · `weekly` · `withdraw` · `work` · `🎣 Fishing Rod` · `🎣 Fishing Rod` · `🐟 Small Fish` · `🪨 Stone`
+### 💰 Economy `30 commands`
+`Fruit` · `Phantom Corp` · `Starter Micro Loan` · `auction` · `balance` · `bet` · `bounty` · `buy` · `crime` · `daily` · `deposit` · `duel` · `gamble` · `gift` · `heist` · `inventory` · `lottery` · `payback` · `register` · `richest` · `rob` · `sell` · `slots` · `trade` · `transfer` · `weekly` · `withdraw` · `work` · `🐟 Small Fish` · `🪨 Stone`
 
 ### 📦 Football `1 command`
 `Premier League`
@@ -119,6 +119,9 @@ Edit `.env` (or `config.js`) to customize your bot:
 
 ### 🔍 Search `11 commands`
 `anime` · `animesearch` · `antonym` · `book` · `country` · `detectlang` · `imdb` · `manga` · `recipe` · `synonym` · `urban`
+
+### 📦 Tools `1 command`
+`🎣 Carbon Fishing Rod`
 
 ### 🔧 Utility `50 commands`
 `Python 3` · `addsticker` · `afk` · `afklist` · `avatar` · `base64` · `bmi` · `calc` · `carbon` · `color` · `count` · `crypto` · `currency` · `define` · `diary` · `encode` · `font` · `github` · `groupvcf` · `hexcolor` · `invoice` · `iplookup` · `mathsolve` · `news` · `ocr` · `password` · `pastebin` · `profile` · `qr` · `qrread` · `remind` · `save` · `schedule` · `shorten` · `speedtest` · `ss` · `sticker` · `tempmail` · `timezone` · `todo` · `toimg` · `topdf` · `tp` · `tts` · `unitconvert` · `vcf` · `vv` · `weather` · `whois` · `wiki`
@@ -194,6 +197,6 @@ See [LICENSE](LICENSE) for full details.
 ---
 
 <p align="center">
-  <b>⚡ PHANTOM BOT v5.0.1</b><br/>
-  <i>342 commands · 15 categories · Powered by Phantom</i>
+  <b>⚡ PHANTOM BOT v5.1.1</b><br/>
+  <i>342 commands · 16 categories · Powered by Phantom</i>
 </p>

@@ -1,6 +1,6 @@
 {
   "name": "phantom-bot",
-  "version": "5.0.1",
+  "version": "5.1.1",
   "description": "PHANTOM BOT - WhatsApp Bot",
   "main": "index.js",
   "scripts": {
