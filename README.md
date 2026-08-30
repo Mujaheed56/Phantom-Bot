@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/⚡_PHANTOM_BOT-v5.4.1-blueviolet?style=for-the-badge&labelColor=0d1117" alt="Phantom Bot"/>
+  <img src="https://img.shields.io/badge/⚡_PHANTOM_BOT-v5.6.2-blueviolet?style=for-the-badge&labelColor=0d1117" alt="Phantom Bot"/>
 </p>
 
 <p align="center">
-  <b>A powerful WhatsApp bot with 351+ commands</b><br/>
+  <b>A powerful WhatsApp bot with 353+ commands</b><br/>
   <i>AI • Football • Games • Economy • Islamic • Downloads • Converter Suite • Group Management</i>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Commands-351+-blue?style=flat-square" alt="Commands"/>
+  <img src="https://img.shields.io/badge/Commands-353+-blue?style=flat-square" alt="Commands"/>
   <img src="https://img.shields.io/badge/Node.js-18+-green?style=flat-square&logo=node.js" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Baileys-7.0.0--rc13-orange?style=flat-square" alt="Baileys"/>
   <img src="https://img.shields.io/badge/License-No_Selling-red?style=flat-square" alt="License"/>
@@ -76,7 +76,7 @@ Edit `.env` (or `config.js`) to customize your bot:
 
 ---
 
-## 📋 Features — 351 Commands
+## 📋 Features — 353 Commands
 
 ### 🤖 Ai `20 commands`
 `ai` · `chatgpt` · `chatpdf` · `claude` · `dalle` · `deepsearch` · `deepseek` · `editimg` · `gemini` · `gpt` · `grok` · `imagine` · `llama` · `mixtral` · `openrouter` · `perplexity` · `removebg` · `solve` · `translate` · `vision`
@@ -99,14 +99,14 @@ Edit `.env` (or `config.js`) to customize your bot:
 ### 🕹️ Games `24 commands`
 `2048` · `Cat` · `Dog` · `Rabbit` · `Slash` · `Slime` · `blackjack` · `charades` · `connect4` · `dungeon` · `emojiguess` · `flagquiz` · `guess` · `hangman` · `mathquiz` · `minesweeper` · `quiz` · `riddle` · `scramble` · `snake` · `tictactoe` · `typingrace` · `wordle` · `wouldyourather`
 
-### 📌 General `12 commands`
-`alive` · `help` · `info` · `menu` · `owner` · `ping` · `repo` · `report` · `stats` · `store` · `support` · `uptime`
+### 📌 General `13 commands`
+`alive` · `changelog` · `help` · `info` · `menu` · `owner` · `ping` · `repo` · `report` · `stats` · `store` · `support` · `uptime`
 
 ### 👥 Group `69 commands`
 `activity` · `add` · `admins` · `analytics` · `announce` · `anonymous` · `antibadword` · `antibot` · `antidelete` · `antiflood` · `antiforeign` · `antilink` · `antispam` · `antistatus` · `ar` · `autoreact` · `autoreply` · `ban` · `bizhours` · `chatfilter` · `chatrank` · `del` · `demote` · `disallow` · `gbackup` · `goodbye` · `groupinfo` · `grouplog` · `groupreset` · `grouptransfer` · `hidetag` · `kick` · `kickall` · `leaderboard` · `link` · `list` · `mediaonly` · `members` · `modstats` · `mute` · `muteall` · `notes` · `pin` · `poll` · `promote` · `purge` · `recap` · `resetwarn` · `revoke` · `rules` · `setdesc` · `setgoodbye` · `setgrouppp` · `seticon` · `setname` · `setwelcome` · `sgroupadd` · `slowmode` · `tag` · `tagall` · `tempban` · `unmute` · `votekick` · `warn` · `welcome` · `whisper` · `whitelist` · `wrapped` · `🆕 Newbie`
 
 ### 🕌 Islamic `27 commands`
-`Adam` · `Mishary Rashid Alafasy` · `Sahih al-Bukhari` · `asmaul` · `dhikr` · `dua` · `duas99` · `fasting` · `fiqh` · `hajj` · `hijri` · `iftar` · `islamicdate` · `islamichistory` · `islamicname` · `islamicquiz` · `juz` · `prayer` · `quran` · `ramadan` · `sadaqah` · `sahih` · `schedule` · `seerah` · `surah` · `tafsir` · `zakat`
+`Adam (AS)` · `Mishary Rashid Alafasy` · `Sahih al-Bukhari` · `asmaul` · `dhikr` · `dua` · `duas99` · `fasting` · `fiqh` · `hajj` · `hijri` · `iftar` · `islamicdate` · `islamichistory` · `islamicname` · `islamicquiz` · `juz` · `prayer` · `quran` · `ramadan` · `sadaqah` · `sahih` · `schedule` · `seerah` · `surah` · `tafsir` · `zakat`
 
 ### 🎬 Media `11 commands`
 `addtext` · `blur` · `circle` · `deepfry` · `enhance` · `gif` · `grayscale` · `invert` · `pixelate` · `triggered` · `trim`
@@ -114,8 +114,8 @@ Edit `.env` (or `config.js`) to customize your bot:
 ### 📦 Other `1 command`
 `video-dl`
 
-### 👑 Owner `27 commands`
-`Google Gemini` · `addsudo` · `anticall` · `autoread` · `autostatusview` · `autotyping` · `block` · `broadcast` · `changelog` · `chatbot` · `eval` · `exec` · `feedback` · `fullbackup` · `globalban` · `logmessages` · `maintenance` · `premium` · `private` · `restart` · `restore` · `setprefix` · `shutdown` · `train` · `unblock` · `update` · `voicebot`
+### 👑 Owner `28 commands`
+`Google Gemini` · `addsudo` · `anticall` · `autoread` · `autostatusview` · `autotyping` · `block` · `broadcast` · `busautoreply` · `chatbot` · `clear` · `eval` · `exec` · `feedback` · `fullbackup` · `globalban` · `logmessages` · `maintenance` · `premium` · `private` · `restart` · `restore` · `setprefix` · `shutdown` · `train` · `unblock` · `update` · `voicebot`
 
 ### 📦 Plugins `1 command`
 `plugins`
@@ -203,6 +203,6 @@ See [LICENSE](LICENSE) for full details.
 ---
 
 <p align="center">
-  <b>⚡ PHANTOM BOT v5.4.1</b><br/>
-  <i>351 commands · 18 categories · Powered by Phantom</i>
+  <b>⚡ PHANTOM BOT v5.6.2</b><br/>
+  <i>353 commands · 18 categories · Powered by Phantom</i>
 </p>
