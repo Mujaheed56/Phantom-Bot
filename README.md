@@ -88,7 +88,7 @@ Edit `.env` (or `config.js`) to customize your bot:
 `apk` · `facebook` · `img` · `instagram` · `lyrics` · `mediafire` · `mediainfo` · `pinterest` · `play` · `song` · `spotify` · `tiktok` · `twitter` · `wallpaper` · `yt` · `ytsearch`
 
 ### 💰 Economy `30 commands`
-`Fruit` · `Starter Micro Loan` · `auction` · `balance` · `bet` · `bounty` · `buy` · `crime` · `daily` · `deposit` · `duel` · `gamble` · `gift` · `heist` · `inventory` · `lottery` · `networth` · `payback` · `register` · `richest` · `rob` · `sell` · `slots` · `trade` · `transfer` · `weekly` · `withdraw` · `work` · `🐟 Small Fish` · `🪨 Stone`
+`Fruit` · `auction` · `balance` · `bet` · `bounty` · `buy` · `crime` · `daily` · `deposit` · `duel` · `gamble` · `gift` · `heist` · `inventory` · `loan` · `lottery` · `networth` · `payback` · `register` · `richest` · `rob` · `sell` · `slots` · `trade` · `transfer` · `weekly` · `withdraw` · `work` · `🐟 Small Fish` · `🪨 Stone`
 
 ### 📦 Flagship / meme `1 command`
 `Phantom Corp`
