@@ -87,8 +87,11 @@ Edit `.env` (or `config.js`) to customize your bot:
 ### 📥 Download `16 commands`
 `apk` · `facebook` · `img` · `instagram` · `lyrics` · `mediafire` · `mediainfo` · `pinterest` · `play` · `song` · `spotify` · `tiktok` · `twitter` · `wallpaper` · `yt` · `ytsearch`
 
-### 💰 Economy `30 commands`
-`Fruit` · `Phantom Corp` · `Starter Micro Loan` · `auction` · `balance` · `bet` · `bounty` · `buy` · `crime` · `daily` · `deposit` · `duel` · `gamble` · `gift` · `heist` · `inventory` · `lottery` · `payback` · `register` · `richest` · `rob` · `sell` · `slots` · `trade` · `transfer` · `weekly` · `withdraw` · `work` · `🐟 Small Fish` · `🪨 Stone`
+### 💰 Economy `29 commands`
+`Fruit` · `Starter Micro Loan` · `auction` · `balance` · `bet` · `bounty` · `buy` · `crime` · `daily` · `deposit` · `duel` · `gamble` · `gift` · `heist` · `inventory` · `lottery` · `payback` · `register` · `richest` · `rob` · `sell` · `slots` · `trade` · `transfer` · `weekly` · `withdraw` · `work` · `🐟 Small Fish` · `🪨 Stone`
+
+### 📦 Flagship / meme `1 command`
+`Phantom Corp`
 
 ### 📦 Football `1 command`
 `Premier League`
@@ -204,5 +207,5 @@ See [LICENSE](LICENSE) for full details.
 
 <p align="center">
   <b>⚡ PHANTOM BOT v5.8.0</b><br/>
-  <i>355 commands · 18 categories · Powered by Phantom</i>
+  <i>355 commands · 19 categories · Powered by Phantom</i>
 </p>
