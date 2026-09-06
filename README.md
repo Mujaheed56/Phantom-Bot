@@ -3,12 +3,12 @@
 </p>
 
 <p align="center">
-  <b>A powerful WhatsApp bot with 355+ commands</b><br/>
+  <b>A powerful WhatsApp bot with 356+ commands</b><br/>
   <i>AI • Football • Games • Economy • Islamic • Downloads • Converter Suite • Group Management</i>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Commands-355+-blue?style=flat-square" alt="Commands"/>
+  <img src="https://img.shields.io/badge/Commands-356+-blue?style=flat-square" alt="Commands"/>
   <img src="https://img.shields.io/badge/Node.js-18+-green?style=flat-square&logo=node.js" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Baileys-7.0.0--rc13-orange?style=flat-square" alt="Baileys"/>
   <img src="https://img.shields.io/badge/License-No_Selling-red?style=flat-square" alt="License"/>
@@ -76,7 +76,7 @@ Edit `.env` (or `config.js`) to customize your bot:
 
 ---
 
-## 📋 Features — 355 Commands
+## 📋 Features — 356 Commands
 
 ### 🤖 Ai `20 commands`
 `ai` · `chatgpt` · `chatpdf` · `claude` · `dalle` · `deepsearch` · `deepseek` · `editimg` · `gemini` · `gpt` · `grok` · `imagine` · `llama` · `mixtral` · `openrouter` · `perplexity` · `removebg` · `solve` · `translate` · `vision`
@@ -87,8 +87,8 @@ Edit `.env` (or `config.js`) to customize your bot:
 ### 📥 Download `16 commands`
 `apk` · `facebook` · `img` · `instagram` · `lyrics` · `mediafire` · `mediainfo` · `pinterest` · `play` · `song` · `spotify` · `tiktok` · `twitter` · `wallpaper` · `yt` · `ytsearch`
 
-### 💰 Economy `29 commands`
-`Fruit` · `Starter Micro Loan` · `auction` · `balance` · `bet` · `bounty` · `buy` · `crime` · `daily` · `deposit` · `duel` · `gamble` · `gift` · `heist` · `inventory` · `lottery` · `payback` · `register` · `richest` · `rob` · `sell` · `slots` · `trade` · `transfer` · `weekly` · `withdraw` · `work` · `🐟 Small Fish` · `🪨 Stone`
+### 💰 Economy `30 commands`
+`Fruit` · `Starter Micro Loan` · `auction` · `balance` · `bet` · `bounty` · `buy` · `crime` · `daily` · `deposit` · `duel` · `gamble` · `gift` · `heist` · `inventory` · `lottery` · `networth` · `payback` · `register` · `richest` · `rob` · `sell` · `slots` · `trade` · `transfer` · `weekly` · `withdraw` · `work` · `🐟 Small Fish` · `🪨 Stone`
 
 ### 📦 Flagship / meme `1 command`
 `Phantom Corp`
@@ -207,5 +207,5 @@ See [LICENSE](LICENSE) for full details.
 
 <p align="center">
   <b>⚡ PHANTOM BOT v5.8.0</b><br/>
-  <i>355 commands · 19 categories · Powered by Phantom</i>
+  <i>356 commands · 19 categories · Powered by Phantom</i>
 </p>
