@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/⚡_PHANTOM_BOT-v5.8.0-blueviolet?style=for-the-badge&labelColor=0d1117" alt="Phantom Bot"/>
+  <img src="https://img.shields.io/badge/⚡_PHANTOM_BOT-v5.9.0-blueviolet?style=for-the-badge&labelColor=0d1117" alt="Phantom Bot"/>
 </p>
 
 <p align="center">
@@ -105,8 +105,8 @@ Edit `.env` (or `config.js`) to customize your bot:
 ### 📌 General `13 commands`
 `alive` · `changelog` · `help` · `info` · `menu` · `owner` · `ping` · `repo` · `report` · `stats` · `store` · `support` · `uptime`
 
-### 👥 Group `69 commands`
-`activity` · `add` · `admins` · `analytics` · `announce` · `anonymous` · `antibadword` · `antibot` · `antidelete` · `antiflood` · `antiforeign` · `antilink` · `antispam` · `antistatus` · `ar` · `autoreact` · `autoreply` · `ban` · `bizhours` · `chatfilter` · `chatrank` · `del` · `demote` · `disallow` · `gbackup` · `goodbye` · `groupinfo` · `grouplog` · `groupreset` · `grouptransfer` · `hidetag` · `kick` · `kickall` · `leaderboard` · `link` · `list` · `mediaonly` · `members` · `modstats` · `mute` · `muteall` · `notes` · `pin` · `poll` · `promote` · `purge` · `recap` · `resetwarn` · `revoke` · `rules` · `setdesc` · `setgoodbye` · `setgrouppp` · `seticon` · `setname` · `setwelcome` · `sgroupadd` · `slowmode` · `tag` · `tagall` · `tempban` · `unmute` · `votekick` · `warn` · `welcome` · `whisper` · `whitelist` · `wrapped` · `🆕 Newbie`
+### 👥 Group `68 commands`
+`activity` · `add` · `admins` · `analytics` · `announce` · `anonymous` · `antibadword` · `antibot` · `antidelete` · `antiflood` · `antiforeign` · `antilink` · `antispam` · `antistatus` · `ar` · `autoreact` · `ban` · `bizhours` · `chatfilter` · `chatrank` · `del` · `demote` · `disallow` · `gbackup` · `goodbye` · `groupinfo` · `grouplog` · `groupreset` · `grouptransfer` · `hidetag` · `kick` · `kickall` · `leaderboard` · `link` · `list` · `mediaonly` · `members` · `modstats` · `mute` · `muteall` · `notes` · `pin` · `poll` · `promote` · `purge` · `recap` · `resetwarn` · `revoke` · `rules` · `setdesc` · `setgoodbye` · `setgrouppp` · `seticon` · `setname` · `setwelcome` · `sgroupadd` · `slowmode` · `tag` · `tagall` · `tempban` · `unmute` · `votekick` · `warn` · `welcome` · `whisper` · `whitelist` · `wrapped` · `🆕 Newbie`
 
 ### 🕌 Islamic `27 commands`
 `Adam (AS)` · `Mishary Rashid Alafasy` · `Sahih al-Bukhari` · `asmaul` · `dhikr` · `dua` · `duas99` · `fasting` · `fiqh` · `hajj` · `hijri` · `iftar` · `islamicdate` · `islamichistory` · `islamicname` · `islamicquiz` · `juz` · `prayer` · `quran` · `ramadan` · `sadaqah` · `sahih` · `schedule` · `seerah` · `surah` · `tafsir` · `zakat`
@@ -117,8 +117,8 @@ Edit `.env` (or `config.js`) to customize your bot:
 ### 📦 Other `1 command`
 `video-dl`
 
-### 👑 Owner `31 commands`
-`Google Gemini` · `addsudo` · `anticall` · `autoread` · `autostatusview` · `autotyping` · `block` · `broadcast` · `busautoreply` · `chatbot` · `clear` · `eval` · `exec` · `feedback` · `fullbackup` · `globalban` · `hideinimg` · `logmessages` · `maintenance` · `premium` · `private` · `resetdb` · `restart` · `restore` · `revealimg` · `setprefix` · `shutdown` · `train` · `unblock` · `update` · `voicebot`
+### 👑 Owner `32 commands`
+`Google Gemini` · `addsudo` · `anticall` · `autoread` · `autoreply` · `autostatusview` · `autotyping` · `block` · `broadcast` · `busautoreply` · `chatbot` · `clear` · `eval` · `exec` · `feedback` · `fullbackup` · `globalban` · `hideinimg` · `logmessages` · `maintenance` · `premium` · `private` · `resetdb` · `restart` · `restore` · `revealimg` · `setprefix` · `shutdown` · `train` · `unblock` · `update` · `voicebot`
 
 ### 📦 Plugins `1 command`
 `plugins`
@@ -206,6 +206,6 @@ See [LICENSE](LICENSE) for full details.
 ---
 
 <p align="center">
-  <b>⚡ PHANTOM BOT v5.8.0</b><br/>
+  <b>⚡ PHANTOM BOT v5.9.0</b><br/>
   <i>357 commands · 19 categories · Powered by Phantom</i>
 </p>

@@ -15,8 +15,8 @@ const config = {
   SESSION_ID: cleanEnv("SESSION_ID"),
 
   GEMINI_API_KEY: cleanEnv("GEMINI_API_KEY"),
-  GEMINI_MODEL: process.env.GEMINI_MODEL || "gemini-1.5-flash",
-  GROK_API_KEY: cleanEnv("GROK_API_KEY"),
+  GEMINI_MODEL: process.env.GEMINI_MODEL || "gemini-flash-latest",
+  GROK_API_KEY: cleanEnv("GROK_API_KEY") || cleanEnv("GROQ_API_KEY"),
   GROK_MODEL: process.env.GROK_MODEL || "openai/gpt-oss-20b",
   OPENAI_API_KEY: cleanEnv("OPENAI_API_KEY"),
   OPENAI_MODEL: process.env.OPENAI_MODEL || "gpt-5.6-sol",
