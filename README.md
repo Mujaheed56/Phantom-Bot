@@ -3,12 +3,12 @@
 </p>
 
 <p align="center">
-  <b>A powerful WhatsApp bot with 356+ commands</b><br/>
+  <b>A powerful WhatsApp bot with 357+ commands</b><br/>
   <i>AI • Football • Games • Economy • Islamic • Downloads • Converter Suite • Group Management</i>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Commands-356+-blue?style=flat-square" alt="Commands"/>
+  <img src="https://img.shields.io/badge/Commands-357+-blue?style=flat-square" alt="Commands"/>
   <img src="https://img.shields.io/badge/Node.js-18+-green?style=flat-square&logo=node.js" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Baileys-7.0.0--rc13-orange?style=flat-square" alt="Baileys"/>
   <img src="https://img.shields.io/badge/License-No_Selling-red?style=flat-square" alt="License"/>
@@ -76,7 +76,7 @@ Edit `.env` (or `config.js`) to customize your bot:
 
 ---
 
-## 📋 Features — 356 Commands
+## 📋 Features — 357 Commands
 
 ### 🤖 Ai `20 commands`
 `ai` · `chatgpt` · `chatpdf` · `claude` · `dalle` · `deepsearch` · `deepseek` · `editimg` · `gemini` · `gpt` · `grok` · `imagine` · `llama` · `mixtral` · `openrouter` · `perplexity` · `removebg` · `solve` · `translate` · `vision`
@@ -117,8 +117,8 @@ Edit `.env` (or `config.js`) to customize your bot:
 ### 📦 Other `1 command`
 `video-dl`
 
-### 👑 Owner `30 commands`
-`Google Gemini` · `addsudo` · `anticall` · `autoread` · `autostatusview` · `autotyping` · `block` · `broadcast` · `busautoreply` · `chatbot` · `clear` · `eval` · `exec` · `feedback` · `fullbackup` · `globalban` · `hideinimg` · `logmessages` · `maintenance` · `premium` · `private` · `restart` · `restore` · `revealimg` · `setprefix` · `shutdown` · `train` · `unblock` · `update` · `voicebot`
+### 👑 Owner `31 commands`
+`Google Gemini` · `addsudo` · `anticall` · `autoread` · `autostatusview` · `autotyping` · `block` · `broadcast` · `busautoreply` · `chatbot` · `clear` · `eval` · `exec` · `feedback` · `fullbackup` · `globalban` · `hideinimg` · `logmessages` · `maintenance` · `premium` · `private` · `resetdb` · `restart` · `restore` · `revealimg` · `setprefix` · `shutdown` · `train` · `unblock` · `update` · `voicebot`
 
 ### 📦 Plugins `1 command`
 `plugins`
@@ -207,5 +207,5 @@ See [LICENSE](LICENSE) for full details.
 
 <p align="center">
   <b>⚡ PHANTOM BOT v5.8.0</b><br/>
-  <i>356 commands · 19 categories · Powered by Phantom</i>
+  <i>357 commands · 19 categories · Powered by Phantom</i>
 </p>
