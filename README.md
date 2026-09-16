@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/⚡_PHANTOM_BOT-v5.9.0-blueviolet?style=for-the-badge&labelColor=0d1117" alt="Phantom Bot"/>
+  <img src="https://img.shields.io/badge/⚡_PHANTOM_BOT-v6.0.0-blueviolet?style=for-the-badge&labelColor=0d1117" alt="Phantom Bot"/>
 </p>
 
 <p align="center">
@@ -206,6 +206,6 @@ See [LICENSE](LICENSE) for full details.
 ---
 
 <p align="center">
-  <b>⚡ PHANTOM BOT v5.9.0</b><br/>
+  <b>⚡ PHANTOM BOT v6.0.0</b><br/>
   <i>357 commands · 19 categories · Powered by Phantom</i>
 </p>
